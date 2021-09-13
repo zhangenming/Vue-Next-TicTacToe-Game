@@ -5,7 +5,7 @@
             <transition name="flip">
                 <span class="xox" v-if="tile.length > 0">{{tile}}</span>
                 <span v-else></span>
-            </transition>
+            </transition>1
         </div>
     </div>
 </template>
